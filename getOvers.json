@@ -1,0 +1,610 @@
+{
+    "inningsId": 2,
+    "batsmanStriker": {
+        "batBalls": 16,
+        "batDots": 9,
+        "batFours": 0,
+        "batId": 8548,
+        "batName": "Taskin Ahmed",
+        "batMins": 29,
+        "batRuns": 17,
+        "batSixes": 2,
+        "batStrikeRate": 106.25
+    },
+    "batsmanNonStriker": {
+        "batBalls": 0,
+        "batDots": 0,
+        "batFours": 0,
+        "batId": 0,
+        "batName": "",
+        "batMins": 0,
+        "batRuns": 0,
+        "batSixes": 0,
+        "batStrikeRate": 0
+    },
+    "batTeam": {
+        "teamId": 6,
+        "teamScore": 182,
+        "teamWkts": 10
+    },
+    "bowlerStriker": {
+        "bowlId": 8292,
+        "bowlName": "Kuldeep Yadav",
+        "bowlMaidens": 1,
+        "bowlNoballs": 0,
+        "bowlOvs": 10,
+        "bowlRuns": 53,
+        "bowlWides": 1,
+        "bowlWkts": 1,
+        "bowlEcon": 5.3
+    },
+    "bowlerNonStriker": {
+        "bowlId": 19027,
+        "bowlName": "Umran Malik",
+        "bowlMaidens": 0,
+        "bowlNoballs": 1,
+        "bowlOvs": 8,
+        "bowlRuns": 43,
+        "bowlWides": 0,
+        "bowlWkts": 2,
+        "bowlEcon": 5.38
+    },
+    "overs": 33.6,
+    "recentOvsStats": "...  | 0 1 0 6 1 1  | 0 B4 4 1 1 W",
+    "target": 410,
+    "partnerShip": {
+        "balls": 26,
+        "runs": 33
+    },
+    "currentRunRate": 5.35,
+    "requiredRunRate": 0,
+    "lastWicket": "Mustafizur Rahman   b Umran Malik 13(17)  - 182/10 in 33.6 ov.",
+    "matchScoreDetails": {
+        "matchId": 56964,
+        "inningsScoreList": [
+            {
+                "inningsId": 2,
+                "batTeamId": 6,
+                "batTeamName": "BAN",
+                "score": 182,
+                "wickets": 10,
+                "overs": 33.6,
+                "isDeclared": false,
+                "isFollowOn": false,
+                "ballNbr": 204
+            },
+            {
+                "inningsId": 1,
+                "batTeamId": 2,
+                "batTeamName": "IND",
+                "score": 409,
+                "wickets": 8,
+                "overs": 49.6,
+                "isDeclared": false,
+                "isFollowOn": false,
+                "ballNbr": 300
+            }
+        ],
+        "tossResults": {
+            "tossWinnerId": 6,
+            "tossWinnerName": "Bangladesh",
+            "decision": "Bowling"
+        },
+        "matchTeamInfo": [
+            {
+                "battingTeamId": 2,
+                "battingTeamShortName": "IND",
+                "bowlingTeamId": 6,
+                "bowlingTeamShortName": "BAN"
+            },
+            {
+                "battingTeamId": 6,
+                "battingTeamShortName": "BAN",
+                "bowlingTeamId": 2,
+                "bowlingTeamShortName": "IND"
+            }
+        ],
+        "isMatchNotCovered": false,
+        "matchFormat": "ODI",
+        "state": "Complete",
+        "customStatus": "India won by 227 runs",
+        "highlightedTeamId": 2
+    },
+    "latestPerformance": [
+        {
+            "runs": 34,
+            "wkts": 3,
+            "label": "Last 5 overs"
+        },
+        {
+            "runs": 50,
+            "wkts": 5,
+            "label": "Last 10 overs"
+        }
+    ],
+    "ppData": {
+        "pp_1": {
+            "ppId": 2,
+            "ppOversFrom": 0.1,
+            "ppOversTo": 10,
+            "ppType": "mandatory",
+            "runsScored": 66
+        }
+    },
+    "matchUdrs": {
+        "matchId": 56964,
+        "inningsId": 2,
+        "timestamp": "2022-12-10T12:47:50.920Z",
+        "team1Id": 6,
+        "team1Remaining": 1,
+        "team1Successful": 1,
+        "team1Unsuccessful": 1,
+        "team2Id": 2,
+        "team2Remaining": 1,
+        "team2Successful": 1,
+        "team2Unsuccessful": 1
+    },
+    "overSummaryList": [
+        {
+            "score": 182,
+            "wickets": 10,
+            "inningsId": 2,
+            "o_summary": "0 B4 4 1 1 W ",
+            "runs": 10,
+            "batStrikerIds": [
+                9863,
+                8548
+            ],
+            "batStrikerNames": [
+                "Mustafizur",
+                "Taskin Ahmed"
+            ],
+            "batStrikerRuns": 13,
+            "batStrikerBalls": 17,
+            "batNonStrikerIds": [],
+            "batNonStrikerNames": [],
+            "batNonStrikerRuns": 17,
+            "batNonStrikerBalls": 16,
+            "bowlIds": [
+                19027
+            ],
+            "bowlNames": [
+                "Umran Malik"
+            ],
+            "bowlOvers": 8,
+            "bowlMaidens": 0,
+            "bowlRuns": 43,
+            "bowlWickets": 2,
+            "timestamp": 1670677617743,
+            "overNum": 33.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        },
+        {
+            "score": 172,
+            "wickets": 9,
+            "inningsId": 2,
+            "o_summary": "0 1 0 6 1 1 ",
+            "runs": 9,
+            "batStrikerIds": [
+                9863,
+                8548
+            ],
+            "batStrikerNames": [
+                "Mustafizur",
+                "Taskin Ahmed"
+            ],
+            "batStrikerRuns": 8,
+            "batStrikerBalls": 12,
+            "batNonStrikerIds": [],
+            "batNonStrikerNames": [],
+            "batNonStrikerRuns": 16,
+            "batNonStrikerBalls": 15,
+            "bowlIds": [
+                8292
+            ],
+            "bowlNames": [
+                "Kuldeep Yadav"
+            ],
+            "bowlOvers": 10,
+            "bowlMaidens": 1,
+            "bowlRuns": 53,
+            "bowlWickets": 1,
+            "timestamp": 1670677359502,
+            "overNum": 32.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        },
+        {
+            "score": 163,
+            "wickets": 9,
+            "inningsId": 2,
+            "o_summary": "0 0 0 4 1 0 ",
+            "runs": 5,
+            "batStrikerIds": [
+                8548,
+                9863
+            ],
+            "batStrikerNames": [
+                "Taskin Ahmed",
+                "Mustafizur"
+            ],
+            "batStrikerRuns": 9,
+            "batStrikerBalls": 12,
+            "batNonStrikerIds": [],
+            "batNonStrikerNames": [],
+            "batNonStrikerRuns": 6,
+            "batNonStrikerBalls": 9,
+            "bowlIds": [
+                19027
+            ],
+            "bowlNames": [
+                "Umran Malik"
+            ],
+            "bowlOvers": 7,
+            "bowlMaidens": 0,
+            "bowlRuns": 37,
+            "bowlWickets": 1,
+            "timestamp": 1670677122809,
+            "overNum": 31.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        },
+        {
+            "score": 158,
+            "wickets": 9,
+            "inningsId": 2,
+            "o_summary": "Wd 1 0 1 6 0 0 ",
+            "runs": 9,
+            "batStrikerIds": [
+                8548,
+                9863
+            ],
+            "batStrikerNames": [
+                "Taskin Ahmed",
+                "Mustafizur"
+            ],
+            "batStrikerRuns": 9,
+            "batStrikerBalls": 11,
+            "batNonStrikerIds": [],
+            "batNonStrikerNames": [],
+            "batNonStrikerRuns": 1,
+            "batNonStrikerBalls": 4,
+            "bowlIds": [
+                8292
+            ],
+            "bowlNames": [
+                "Kuldeep Yadav"
+            ],
+            "bowlOvers": 9,
+            "bowlMaidens": 1,
+            "bowlRuns": 44,
+            "bowlWickets": 1,
+            "timestamp": 1670676883062,
+            "overNum": 30.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        },
+        {
+            "score": 149,
+            "wickets": 9,
+            "inningsId": 2,
+            "o_summary": "W Wd 0 0 W 0 0 ",
+            "runs": 1,
+            "batStrikerIds": [
+                9863,
+                11786,
+                11081
+            ],
+            "batStrikerNames": [
+                "Mustafizur",
+                "Ebadot Hossain",
+                "Mehidy Hasan Miraz"
+            ],
+            "batStrikerRuns": 0,
+            "batStrikerBalls": 2,
+            "batNonStrikerIds": [
+                8548
+            ],
+            "batNonStrikerNames": [
+                "Taskin Ahmed"
+            ],
+            "batNonStrikerRuns": 2,
+            "batNonStrikerBalls": 7,
+            "bowlIds": [
+                8683
+            ],
+            "bowlNames": [
+                "Shardul Thakur"
+            ],
+            "bowlOvers": 5,
+            "bowlMaidens": 0,
+            "bowlRuns": 30,
+            "bowlWickets": 3,
+            "timestamp": 1670676849307,
+            "overNum": 29.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        },
+        {
+            "score": 148,
+            "wickets": 7,
+            "inningsId": 2,
+            "o_summary": "0 0 1 1 0 0 ",
+            "runs": 2,
+            "batStrikerIds": [
+                8548,
+                11081
+            ],
+            "batStrikerNames": [
+                "Taskin Ahmed",
+                "Mehidy Hasan Miraz"
+            ],
+            "batStrikerRuns": 2,
+            "batStrikerBalls": 7,
+            "batNonStrikerIds": [],
+            "batNonStrikerNames": [],
+            "batNonStrikerRuns": 3,
+            "batNonStrikerBalls": 4,
+            "bowlIds": [
+                8292
+            ],
+            "bowlNames": [
+                "Kuldeep Yadav"
+            ],
+            "bowlOvers": 8,
+            "bowlMaidens": 1,
+            "bowlRuns": 35,
+            "bowlWickets": 1,
+            "timestamp": 1670676010149,
+            "overNum": 28.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        },
+        {
+            "score": 146,
+            "wickets": 7,
+            "inningsId": 2,
+            "o_summary": "0 1 0 W 0 1 ",
+            "runs": 2,
+            "batStrikerIds": [
+                8548,
+                11984,
+                11081
+            ],
+            "batStrikerNames": [
+                "Taskin Ahmed",
+                "Afif Hossain",
+                "Mehidy Hasan Miraz"
+            ],
+            "batStrikerRuns": 1,
+            "batStrikerBalls": 2,
+            "batNonStrikerIds": [],
+            "batNonStrikerNames": [],
+            "batNonStrikerRuns": 2,
+            "batNonStrikerBalls": 3,
+            "bowlIds": [
+                8683
+            ],
+            "bowlNames": [
+                "Shardul Thakur"
+            ],
+            "bowlOvers": 4,
+            "bowlMaidens": 0,
+            "bowlRuns": 29,
+            "bowlWickets": 1,
+            "timestamp": 1670675791353,
+            "overNum": 27.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        },
+        {
+            "score": 144,
+            "wickets": 6,
+            "inningsId": 2,
+            "o_summary": "0 1 0 0 W 1 ",
+            "runs": 2,
+            "batStrikerIds": [
+                11081,
+                1121,
+                11984
+            ],
+            "batStrikerNames": [
+                "Mehidy Hasan Miraz",
+                "Mahmudullah",
+                "Afif Hossain"
+            ],
+            "batStrikerRuns": 1,
+            "batStrikerBalls": 1,
+            "batNonStrikerIds": [],
+            "batNonStrikerNames": [],
+            "batNonStrikerRuns": 8,
+            "batNonStrikerBalls": 10,
+            "bowlIds": [
+                10945
+            ],
+            "bowlNames": [
+                "Washington Sundar"
+            ],
+            "bowlOvers": 1,
+            "bowlMaidens": 0,
+            "bowlRuns": 2,
+            "bowlWickets": 1,
+            "timestamp": 1670675468374,
+            "overNum": 26.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        },
+        {
+            "score": 142,
+            "wickets": 5,
+            "inningsId": 2,
+            "o_summary": "0 0 0 0 2 6 ",
+            "runs": 8,
+            "batStrikerIds": [
+                1121
+            ],
+            "batStrikerNames": [
+                "Mahmudullah"
+            ],
+            "batStrikerRuns": 20,
+            "batStrikerBalls": 23,
+            "batNonStrikerIds": [
+                11984
+            ],
+            "batNonStrikerNames": [
+                "Afif Hossain"
+            ],
+            "batNonStrikerRuns": 7,
+            "batNonStrikerBalls": 8,
+            "bowlIds": [
+                8683
+            ],
+            "bowlNames": [
+                "Shardul Thakur"
+            ],
+            "bowlOvers": 3,
+            "bowlMaidens": 0,
+            "bowlRuns": 27,
+            "bowlWickets": 0,
+            "timestamp": 1670675050090,
+            "overNum": 25.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        },
+        {
+            "score": 134,
+            "wickets": 5,
+            "inningsId": 2,
+            "o_summary": "0 0 0 1 0 1 ",
+            "runs": 2,
+            "batStrikerIds": [
+                1121
+            ],
+            "batStrikerNames": [
+                "Mahmudullah"
+            ],
+            "batStrikerRuns": 12,
+            "batStrikerBalls": 17,
+            "batNonStrikerIds": [
+                11984
+            ],
+            "batNonStrikerNames": [
+                "Afif Hossain"
+            ],
+            "batNonStrikerRuns": 7,
+            "batNonStrikerBalls": 8,
+            "bowlIds": [
+                8292
+            ],
+            "bowlNames": [
+                "Kuldeep Yadav"
+            ],
+            "bowlOvers": 7,
+            "bowlMaidens": 1,
+            "bowlRuns": 33,
+            "bowlWickets": 1,
+            "timestamp": 1670674788174,
+            "overNum": 24.6,
+            "batTeamName": "BAN",
+            "event": "over-break"
+        }
+    ],
+    "status": "India won by 227 runs",
+    "lastWicketScore": 13,
+    "remRunsToWin": 0,
+    "matchHeader": {
+        "matchId": 56964,
+        "matchDescription": "3rd ODI",
+        "matchFormat": "ODI",
+        "matchType": "International",
+        "complete": true,
+        "domestic": false,
+        "matchStartTimestamp": 1670652000000,
+        "matchCompleteTimestamp": 1670677656080,
+        "dayNight": false,
+        "year": 2022,
+        "state": "Complete",
+        "status": "Bangladesh opt to bowl",
+        "tossResults": {
+            "tossWinnerId": 6,
+            "tossWinnerName": "Bangladesh",
+            "decision": "Bowling"
+        },
+        "result": {
+            "resultType": "win",
+            "winningTeam": "India",
+            "winningteamId": 2,
+            "winningMargin": 227,
+            "winByRuns": true,
+            "winByInnings": false
+        },
+        "revisedTarget": {
+            "reason": ""
+        },
+        "playersOfTheMatch": [
+            {
+                "id": 10276,
+                "name": "Ishan Kishan",
+                "fullName": "Ishan Kishan",
+                "nickName": "Ishan Kishan",
+                "captain": false,
+                "keeper": false,
+                "substitute": false,
+                "teamName": "Jharkhand",
+                "faceImageId": 226219
+            }
+        ],
+        "playersOfTheSeries": [
+            {
+                "id": 11081,
+                "name": "Mehidy Hasan Miraz",
+                "fullName": "Mehidy Hasan Miraz",
+                "nickName": "Mehidy Hasan Miraz",
+                "captain": false,
+                "role": "Bowling Allrounder",
+                "keeper": false,
+                "substitute": false,
+                "teamId": 6,
+                "battingStyle": "RIGHT",
+                "bowlingStyle": "Right Arm off break",
+                "teamName": "Bangladesh",
+                "faceImageId": 244919
+            }
+        ],
+        "matchTeamInfo": [
+            {
+                "battingTeamId": 2,
+                "battingTeamShortName": "IND",
+                "bowlingTeamId": 6,
+                "bowlingTeamShortName": "BAN"
+            },
+            {
+                "battingTeamId": 6,
+                "battingTeamShortName": "BAN",
+                "bowlingTeamId": 2,
+                "bowlingTeamShortName": "IND"
+            }
+        ],
+        "isMatchNotCovered": false,
+        "team1": {
+            "id": 6,
+            "name": "Bangladesh",
+            "playerDetails": [],
+            "shortName": "BAN"
+        },
+        "team2": {
+            "id": 2,
+            "name": "India",
+            "playerDetails": [],
+            "shortName": "IND"
+        },
+        "seriesDesc": "India tour of Bangladesh, 2022",
+        "seriesId": 4905,
+        "seriesName": "India tour of Bangladesh, 2022",
+        "alertType": "",
+        "livestreamEnabled": false
+    },
+    "responseLastUpdated": 1679823856,
+    "event": "WICKET,OVER-BREAK"
+}
